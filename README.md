@@ -8,11 +8,15 @@
 
 <br clear="both">
 
-<img align="right" height="165" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+<img align="right" height="200" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 ###
 
-<p align="left">Hi! I'm Kensho and I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
+<h2 align="left">Hi! I'm Kensho~</h2>
+
+###
+
+<h3 align="left">I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</h3>
 
 ###
 
