@@ -1,16 +1,22 @@
+<img src="https://raw.githubusercontent.com/xKensho47/xKensho47/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left">💻 Discover my journey in programming!</h1>
+
+###
+
 <br clear="both">
 
-<img align="right" height="180" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"  />
+<img align="right" height="185" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 ###
 
-<h1 align="left">💻 Discover my programming journey here!</h1>
+<h3 align="left">Hi! I'm Kensho and I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</h3>
 
 ###
 
-<p align="left">Hi! I'm Kensho and I'm currently studying at UTN to obtain my "University Programming Technician" degree.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile.<br>Enjoy it!</p>
-
-###
+<br clear="both">
 
 <h2 align="left">About me</h2>
 
@@ -53,5 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/xKensho47/xKensho47/output/snake.svg" alt="Snake animation" />
