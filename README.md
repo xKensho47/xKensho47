@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/xKensho47/xKensho47/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <img align="right" height="180" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"  />
@@ -57,3 +53,5 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/xKensho47/xKensho47/output/snake.svg" alt="Snake animation" />
