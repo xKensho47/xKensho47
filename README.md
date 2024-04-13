@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="185" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
+<img align="right" height="165" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 
 ###
 
