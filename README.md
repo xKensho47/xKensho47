@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Hi! I'm Kensho and I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</h3>
+<p align="left">Hi! I'm Kensho and I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
 
 ###
 
