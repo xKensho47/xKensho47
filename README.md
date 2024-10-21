@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a programming student.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
+<p align="left">I'm a Programming Technician.<br>I'm from Argentina and I love technology.<br>Welcome to my GitHub profile 😁<br>Enjoy it!</p>
 
 ###
 
